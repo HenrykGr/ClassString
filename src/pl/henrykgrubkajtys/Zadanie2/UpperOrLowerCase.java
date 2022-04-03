@@ -1,4 +1,4 @@
-package Zadanie2;
+package pl.henrykgrubkajtys.Zadanie2;
 
 import java.util.Scanner;
 
